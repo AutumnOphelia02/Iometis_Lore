@@ -1,0 +1,1 @@
+A small continent off the North-Western coast of [[Raasha Overview|Raasha]]. Far to the East of [[Aviseau Overview|Aviseau]].

@@ -1,0 +1,3 @@
+## Overview
+
+The second largest of the Kinos islands, Akenenos is a loose collection of city states, with more of an overarching government than the other two main islands. The city states of Akenenos all have a loose agreement of aid, no formal treaty or alliance but a common understanding that a threat against one of these cities is a threat against them all. The agreement also dictates that aid must be given for mundane threats of famine, natural disasters and other such tragedies. This results in a strong sense of community amongst Akenoans, even if their specific city-states run differently with different laws and rules they know that they will come together to aid each other in times of need.

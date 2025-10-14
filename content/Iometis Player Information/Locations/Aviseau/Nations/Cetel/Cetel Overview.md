@@ -1,0 +1,4 @@
+#Nation 
+A small island nation of the coast of [[Aviseau Overview|Aviseau]]. While fiercely independent, a loose alliance is held between Cetel and nearby [[Zamonia Overview|Zamonia]] but with [[Zamonia Overview|Zamonia's]] increase militarization and eye for expansion this alliance is becoming thread bare at best, with [[Zamonia Overview|Zamonia]] consistently testing the boundaries of their supposed "allies".
+
+The brewing war is obvious to most and many prepare to defend their homes to the bitter end. Some however seek new homes, traveling to mainland Aviseau or down south to the [[Kinoan Island Overview|Kinoan Islands]].

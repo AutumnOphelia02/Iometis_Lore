@@ -1,0 +1,3 @@
+## Overview
+
+Pelkea is the smallest of the three main islands, fiercely independent and isolationist Pelkea is protective over its own, not wanting outsiders to trespass on their native land, Pelkeans have strict rules outsiders must follow to be permitted on their land. Other people of the Kinos Islands are more readily accepted but are still watched carefully for overstepping their bounds. Inside Pelkea most cities and towns hold little allegiance to each other, only truly unifying when outsiders threaten their borders.

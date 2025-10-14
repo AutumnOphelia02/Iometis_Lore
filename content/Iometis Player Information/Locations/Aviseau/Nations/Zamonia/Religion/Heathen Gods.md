@@ -1,0 +1,1 @@
+The nation of [[Zamonia Overview|Zamonia]] has a state religion. The [[Astral Whole]] which denies the divinity of the [[Religion of Iometis|Maeserai]], labeling them heathen gods. Worship any of these deities is strictly forbade in [[Zamonia Overview|Zamonia]] punishable by death unless the heathens recant their doctrines.

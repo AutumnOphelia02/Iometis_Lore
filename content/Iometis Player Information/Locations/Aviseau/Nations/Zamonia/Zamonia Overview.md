@@ -1,0 +1,4 @@
+#Nation
+Zamonia is a religious and militant nation, with strict bans on worship of [[Heathen Gods]] any who worship them are hunted down by local law enforcement or mobs of the zealous believers of the [[Astral Whole]]. Zamonia is turning its eyes towards conquest. Collecting researchers and engineers to help develops tools of war and instruments of astrological observation both with the intent to give them an edge and allow them to conquer and control even more territory than their already expansive borders.
+
+Many have fled the religious persecution of Zamonia, heading to [[Cetel Overview|Cetel]] or the [[Kinoan Island Overview|Kinoan Islands]].

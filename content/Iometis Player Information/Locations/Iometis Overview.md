@@ -1,0 +1,8 @@
+![[Iometis Hemisphere.png]]
+
+The World is old, older than the gods that created its people. Forged from elemental chaos in a time before history the world was made. Long eons of history took place, civilizations rose and fell before a great arcane ritual sundered the cosmos, destroying the great wheel of planes and creating The Orrery. In this destruction and cacophonous explosion of raw energies the Maeserai were born, the gods who created the current people of the world. But not all of the Maeserai were benevolent and demons strode the world freely, after millennia of war, strife, and battles the Maeserai who watched over the people decided to spare them, performing a ritual to banish all Maeserai beyond the material plane where they could never walk again but only channel powers through clerics or other worshipers to their name.
+
+It has been roughly 1500 years since the gods and demons were banished from the world. 1500 years of rebuilding from the destruction of constant deific war. Nations have risen and many have fallen but hope abounds. The world is ripe for discovery! Ancient ruins that predate even the gods dot the landscape and magical secrets long forgotten wait to be discovered. The people of the world are slowly growing and spreading to found new homes and make their way through the world. This is where our story begins, in an ancient world being discovered by young civilizations.
+
+# Continents and Island Nations
+The Three main continents in this hemisphere of Iometis are [[Aviseau Overview|Aviseau]], [[Besair Overview|Besair]], and [[Raasha Overview|Raasha]]. But there are two smaller Island nations, the [[Kinoan Island Overview|Kinoan Islands]], and [[Jraic Overview|Jraic]].
