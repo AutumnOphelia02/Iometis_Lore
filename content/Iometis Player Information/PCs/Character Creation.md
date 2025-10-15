@@ -17,9 +17,10 @@ In an attempt to avoid the "Meet at a Tavern" trope I am going to attempt to hav
 # Rarity Traits
 When creating your character please limit yourself to spells, items, feats, and other such things of common rarity. If you would like to utilize something of a less common rarity please talk with me about it and we can discuss how to best implement it, if we can. The exception to this is ancestries, feel free to create a character of any ancestry of common or uncommon. Rare ancestries are available but I would like to discuss those on a case by case basis.
 
-# Magic
+# Magic and Other Planes
 Magic is still being developed in this world no spells of rank 8 or higher have yet been discovered or developed. Currently only a handful of rank 7 spells have been discovered or developed and very few casters can even cast 6th or 7th rank spells. While this will mostly be a world building and lore relevant piece of information if we get to high enough levels for it to affect player choices we will get into more details.  
-Please see the Magic of Iometis folder for more information about [[Creating New Spells]], and homebrew spells in the world of Iometis. I will add more spells to this section of this site as they become relevant and available to the party.
+Please see the Magic of Iometis folder for more information about [[Creating New Spells]], and homebrew spells in the world of Iometis. I will add more spells to this section of this site as they become relevant and available to the party.  
+While the plane shift spell has yet to be discovered the orbital nature of the planes allows for travel between them with the teleport spell when a given plane is Ascendent. See [[The Orrery of Iometis]] for more information of the planes and their orbits. Certain planes have been explored more than others, depending on both their coterminous duration and their orbital period. While [[Etith]] is has short period of only 2.33 years it is only coterminous for 1 day, mean expeditions must be back within the day or be ready to wait 2.33 years until it becomes coterminous again.
 
 # Questions, Comments, Concerns
 If you have any questions, comments, or concerns please reach out to me. I will do my best to address them as soon as I can.
