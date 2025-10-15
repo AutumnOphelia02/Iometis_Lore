@@ -1,5 +1,5 @@
 It is ice and storm  
-It is the frozen core and the thunder skies
+It is the frozen core and the thunder skies  
 It is the Tempest Storm
 
 
