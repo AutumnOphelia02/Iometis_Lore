@@ -29,6 +29,10 @@ The Transcendent Planes are name thus because they are the planes that transcend
 	[[Rathlios|Rathlios, The Faewild]]  
 	Xevileth, Realm of Madness  
 
+# The Orbits of the Planes
+
+![[Pasted image 20230531113435.png]]
+
 # Planar Traits
 Each plane, dimension, and demiplane has its own properties and attributes. Planar traits can be broken down into six categories: alignment, scope, gravity, time, morphic, and planar essence. Combined, those traits describe the laws and makeup of the plane. These appear in the plane’s traits entry, though any trait that matches the Material Plane (described in the Normal entry in each section below) is omitted.  
 
@@ -127,6 +131,3 @@ Unprotected wood, paper, cloth, and other flammable materials catch fire almost 
 **Shadow:** Planes with this trait are umbral with murky light. On a shadow plane, the radius of all light from light sources and the areas of light spells are halved. Darkness and shadow magic are enhanced, and light magic is impeded.
 
 
-# The Orbits of the Planes
-
-![[Pasted image 20230531113435.png]]
