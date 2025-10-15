@@ -14,12 +14,12 @@ The liminal planes are thus named because they are inseparably linked with the v
 	[[The Astral Plane]]  
 
 # The Transcendent Planes
-The Transcendent Planes are name thus because they are the planes that transcend the material plane and orbit around it. These planes consist of:
+The Transcendent Planes are name thus because they are the planes that transcend the material plane and orbit around it. These planes consist of:  
 	[[Etoc|Etoc, The Endless Earth]]  
 	[[Etul|Etul, The Inifite Sea]]  
 	[[Etith|Etith, The Horizon Unending]]  
 	[[Etar|Etar, The Fire Eternal]]  
-	Quoran, The Tempest Storm  
+	[[Quoran|Quoran, The Tempest Storm]]  
 	Sivranos, The Radiant Light  
 	Vindrium, The Devouring Void  
 	Lokan, The Hall of the Dead  
@@ -32,6 +32,12 @@ The Transcendent Planes are name thus because they are the planes that transcend
 # The Orbits of the Planes
 
 ![[Pasted image 20230531113435.png]]
+
+The transcendent planes orbit around the Telluric planes coming closer and farther away over time. The times when they are closest is when they are Ascendent and the times when they are farthest, they are remote.  
+
+When a plane is ascendent it is coterminous with the telluric planes. With the plane so close travel between the two planes is easier and other things or effects can bleed over as well. When a plane is ascendent an individual with the teleport spell can move between the two planes as if it were a plane shift spell.  
+
+When the plane is descendent it is remote and the farthest it can be from the Telluric planes and it is difficult to establish a connection between the two.
 
 # Planar Traits
 Each plane, dimension, and demiplane has its own properties and attributes. Planar traits can be broken down into six categories: alignment, scope, gravity, time, morphic, and planar essence. Combined, those traits describe the laws and makeup of the plane. These appear in the plane’s traits entry, though any trait that matches the Material Plane (described in the Normal entry in each section below) is omitted.  

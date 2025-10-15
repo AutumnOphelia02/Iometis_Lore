@@ -10,7 +10,7 @@ It is the Horizon Unending.
 ## Coterminous
 Etoc is Coterminous for one days every 2.33 years  
 
-When Etith is Ascendant and coterminous storms are harsher and more violent. Winds blow harder and more chaotic. Those who can fly say it is easier during this time.  
+When Etith is Ascendant and coterminous storms are harsher and more violent. Winds blow harder and more chaotic. Those who can fly say it is easier during this time as the higher you go the more gravity seems to fade. Tops of mountains are known to shatter apart and drift around in the chaotic air only to fall as the plane gets farther away.  
 
 Spells with the air trait or that manipulate, use, or create air are cast as if they were heighted by 1 level. Any summon spell that summons a creature with the air Trait (or that logically comes from Etith) may be cast as if it were heightened by one level, but only if summoning an Air creature.  
 
