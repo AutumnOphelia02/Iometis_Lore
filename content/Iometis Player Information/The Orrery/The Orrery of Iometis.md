@@ -3,31 +3,31 @@ The planes of Iometis are not statically located in the planar dimensions but or
 The planes are broken up into three main categories
 
 # The Telluric Planes
-The Telluric planes are a group of congruous planes that reside at the center of the orrery. They consist of:
-	[[The Spirit World]]
-	[[The Material Plane|Iometis, The Material Plane]]
-	[[Etfen Carith]]
+The Telluric planes are a group of congruous planes that reside at the center of the orrery. They consist of:  
+	[[The Spirit World]]  
+	[[The Material Plane|Iometis, The Material Plane]]  
+	[[Etfen Carith]]  
 
 # The Liminal Planes
-The liminal planes are thus named because they are inseparably linked with the various other planes and serve as connections or doorways between the planes. They consist of:
-	[[The Ethereal Plane]]
-	[[The Astral Plane]]
+The liminal planes are thus named because they are inseparably linked with the various other planes and serve as connections or doorways between the planes. They consist of:  
+	[[The Ethereal Plane]]  
+	[[The Astral Plane]]  
 
 # The Transcendent Planes
 The Transcendent Planes are name thus because they are the planes that transcend the material plane and orbit around it. These planes consist of:
-	[[Etoc|Etoc, The Endless Earth]]
-	[[Etul|Etul, The Inifite Sea]]
-	[[Etith|Etith, The Horizon Unending]]
-	[[Etar|Etar, The Fire Eternal]]
-	Quoran, The Tempest Storm
-	Sivranos, The Radiant Light
-	Vindrium, The Devouring Void
-	Lokan, The Hall of the Dead
-	Hyanor, The Land of Silver River
-	Shaitaan, The Shattered Paradise
-	Barazdun, The Clockwork Perfection
-	[[Rathlios|Rathlios, The Faewild]]
-	Xevileth, Realm of Madness
+	[[Etoc|Etoc, The Endless Earth]]  
+	[[Etul|Etul, The Inifite Sea]]  
+	[[Etith|Etith, The Horizon Unending]]  
+	[[Etar|Etar, The Fire Eternal]]  
+	Quoran, The Tempest Storm  
+	Sivranos, The Radiant Light  
+	Vindrium, The Devouring Void  
+	Lokan, The Hall of the Dead  
+	Hyanor, The Land of Silver River  
+	Shaitaan, The Shattered Paradise  
+	Barazdun, The Clockwork Perfection  
+	[[Rathlios|Rathlios, The Faewild]]  
+	Xevileth, Realm of Madness  
 
 # Planar Traits
 Each plane, dimension, and demiplane has its own properties and attributes. Planar traits can be broken down into six categories: alignment, scope, gravity, time, morphic, and planar essence. Combined, those traits describe the laws and makeup of the plane. These appear in the plane’s traits entry, though any trait that matches the Material Plane (described in the Normal entry in each section below) is omitted.  

@@ -1,4 +1,4 @@
-The Sea of Stars
-The Silver Sea
-The Aether
+The Sea of Stars  
+The Silver Sea  
+The Aether  
 
