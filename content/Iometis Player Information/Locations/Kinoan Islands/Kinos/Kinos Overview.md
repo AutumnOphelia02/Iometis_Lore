@@ -1,3 +1,5 @@
+![[Kinos Island Map.png]]
+
 ## Overview
 
 The largest of the three islands and the namesake of the region, Kinos is known for its vast forests which cover most of the island. Kinos is broken up into three main regions: the Mynead Highlands which dominate the North-Eastern section of the island, the Kostos Lowlands in the southern regions of the island, and Kepski’s Maw in the Western reaches of the island.

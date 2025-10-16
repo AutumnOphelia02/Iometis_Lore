@@ -34,3 +34,13 @@ The Ghost of Light Keeper: Legend says the light house is haunted by the ghost o
 Rumor has it that the Diamond Circle is planning something big, and dangerous, speculation says they are preparing for war but against who is the harder question to answer.
 
 People have been disappearing from the poorer districts of the city recently, no one knows where they go or what has happened to them, most assume they ran away or died an unknown death somewhere, but those who knew them insist that something nefarious is afoot.
+
+Maps
+---
+### Region under Midovici's Protection Guild
+![[Midovici Region Map.png]]
+
+### Midovici
+![[Midovici Map.png]]
+
+

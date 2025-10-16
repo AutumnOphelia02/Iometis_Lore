@@ -1,5 +1,6 @@
 #Location 
 
+![[Belhan Town Map.png]]
 Belhan
 --
 Population: ~500
