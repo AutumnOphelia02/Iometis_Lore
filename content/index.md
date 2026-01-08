@@ -14,6 +14,6 @@ For those new to the campaign here is a link to a [Safety & Consent Checklist](h
 
 As always questions, comments, and suggestions are welcome!  
 
-Updates from session 1, Coming soon!  
+[[2025-11-21 - Session 1|Session 1]] Notes are here!  
 
 
