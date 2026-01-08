@@ -18,7 +18,7 @@ As the position of Grandmagi is a magocractic position anyone from the universit
 
 The Grandmagi, largely settles internal disputes between the colleges; allocation of University resources and instrument time, disputes of tasks that fall under the purview of multiple colleges, and other such things. As Grandmagi, one holds a lot of power but as anyone can challenge your position at anytime it is a difficult position to remain in without allies and a mastery of the magical arts.  
 
-The Current Grandmagi is [[Teliope Brasskettle]]  
+The Current Grandmagi is [[Morag Dro'Gura]]  
 The Current Magi of Civics is [[Ronis Cantwel]]  
 The Current Magi of Spellcraft is [[Velyn of Askia]]  
 The Current Magi of History is [[Brannus Jori]]   

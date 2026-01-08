@@ -1,0 +1,3 @@
+A beautiful silver kris dagger that [[Morag Dro'Gura|Morag]] ritually used to kill himself in his ritual to lichdom. Orbs of light that left [[Morag Dro'Gura|Morag]] during the ritual seemed to be captured and trapped by the blade. Perhaps housing whatever they were.
+
+The party later found this blade on [[Morag Dro'Gura|Morag's]] research notes in [[Brannus Jori|Brannus Jori's]] office. However the handle seemed to have been ill fitted to the tang of the blade, with a small gap just below the guard. When [[Dust]] touched the dagger swirling mist curled out and formed a portal out of which dropped two disembodied hands.

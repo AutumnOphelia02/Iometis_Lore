@@ -1,0 +1,2 @@
+*A middle aged hobgoblin who dresses in simple grey robes with a prominent symbol of Kohvaia dangling from a simple leather necklace.*
+A priest of [[Kohvaia]], who taught [[Greebo]] the nature of healing magic.

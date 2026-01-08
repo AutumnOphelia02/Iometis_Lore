@@ -1,0 +1,3 @@
+Tomori, living spells, developed and created by [[Teliope Brasskettle]]. The first (and currently sole) Tomori, [[Menias Brasskettle]] was [[Teliope Brasskettle|Teliope's]] attempt to keep her position of Grangmagi of the [[University of Arcane and Occult]] in a spell duel against [[Morag Dro'Gura]].
+
+Very little is know about these new beings as the only one in existence has only existed for about 2 days.

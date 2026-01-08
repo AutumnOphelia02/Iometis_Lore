@@ -1,0 +1,1 @@
+Large insectoid creatures that have ferrous arcanic antennae that will quickly corrode metal objects and items. While they can be communicated with via magical means they are very territorial and wary of many humanoid beings.
