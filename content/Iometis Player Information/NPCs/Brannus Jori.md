@@ -1,3 +1,5 @@
+![[Brannus Jori.png|250]]
+Image created by Panda
 *An imposing wall of brown fur and muscle this minotaur stands easily 8' tall with ornately adorned horns and in place of his right arm a beautifully crafted wooden prosthetic: Arcane runes and sigils light and grow dim as it moves. He is dressed mostly in tweed and corduroy with delicate spectacles perched on his snout.*
 
 Brannus is a tall middle ages minotaur man (he/him). He is the current Magi of History in [[Sobraca]]. 
